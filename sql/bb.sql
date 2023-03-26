@@ -96,7 +96,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`userid`, `username`, `first_name`, `last_name`, `email`, `phone_number`, `gender`, `blood_type`, `password`, `age`, `dept`, `sesion`, `district`, `birth_date`, `last_donation`) VALUES
-('63f86d12a2709', 'meem', 'Tamanna', 'Afroj', 'meem@gmail.com', '01798095753', 'f', 'B+', '1234', 22, 'CSE', '2017-18', 'Dinajpur', '2023-02-23', '2023-02-23');
+('63f86d12a2709', 'meem', 'Tamanna', 'Afroj', 'meem@gmail.com', '01700000000', 'f', 'B+', '1234', 22, 'CSE', '2017-18', 'Dinajpur', '2023-02-23', '2023-02-23');
 
 --
 -- Indexes for dumped tables
